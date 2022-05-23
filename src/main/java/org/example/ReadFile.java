@@ -33,6 +33,6 @@ public class ReadFile {
 //    e.printStackTrace();
 //}
 
-        System.out.println(props.get("name"));
+        System.out.println(props.get("nam"));
     }
 }
